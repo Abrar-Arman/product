@@ -1,0 +1,27 @@
+footer{
+    background-color: var(--text-color);
+}
+.footer{
+    width: 23%;
+}
+.footer h1{
+font-size: 24px;
+}
+.footer h3{
+    font-size: 18px;
+}
+.footer p{
+    margin-bottom: 2px; 
+    font-size: 14px;
+}
+.footer ul >li{
+    font-size: 14px;
+    cursor: pointer;
+}
+.footer input{
+    border:1px solid #fff;
+    background-color: transparent;
+    margin-top: 5px;
+    padding-left: 6px;
+    border-radius: 6px;
+}

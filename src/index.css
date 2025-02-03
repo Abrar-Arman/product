@@ -1,0 +1,21 @@
+:root{
+  --text-color:#000;
+}
+ul{
+  list-style: none;
+}
+a{
+  color: var(--text-color);
+  text-decoration: none;
+  
+}
+body{
+  background-color: #f8f8f8;
+  font-family:sans-serif
+}
+::-webkit-scrollbar {
+  width: 5px;
+}
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
